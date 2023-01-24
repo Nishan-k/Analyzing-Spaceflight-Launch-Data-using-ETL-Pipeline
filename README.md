@@ -21,7 +21,6 @@ Instead of going to the site and struggling to find the info about the recent/up
         <li><a href="#containerize"><b> Containerize Everything</a></b></li>
         </ul>
     </li>
-    <li><a href="#demo"><b>Demo </a></b></li>
     <li><a href="#conclusion"><b>Conclusion </a></b> </li>
 
 </ol>
@@ -73,9 +72,9 @@ The data used in this project has been extracted using an <a href="https://ll.th
     </ul>
 
 
-<h3 id="demo"> 3.Demo </h3>
 
-<h3 id="conclusion"> 4.Conclusion </h3>
+
+<h3 id="conclusion"> 3.Conclusion </h3>
 Thus after going through all the task in the pipeline, finally we are able to get the proper information of the rocket we are interested, in this dashboard.
 
 ##### To run this app on you local machine, please locate the path of docker-compose.yaml and from their right click your mouse, click on Open in terminal and run:
